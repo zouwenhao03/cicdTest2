@@ -3,7 +3,7 @@
     <van-icon name="arrow-left" class="goBack" size="1.5em" @click="goBack" />
     <div class="qrcode-part">
       <img :src="qrcodeImg" />
-      <div>请通过手机APP扫码登录</div>
+      <div>请通过手机APP扫码登录 testpart</div>
     </div>
   </div>
 </template>
